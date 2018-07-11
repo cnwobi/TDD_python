@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc3627d-aee6-44d9-a123-1d7525380a76" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/superlists/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/functional_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/templates/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +24,8 @@
       <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -286,7 +284,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531221095332</updated>
       <workItem from="1531221101192" duration="6706000" />
-      <workItem from="1531274001609" duration="8718000" />
+      <workItem from="1531274001609" duration="9381000" />
     </task>
     <servers />
   </component>
@@ -305,7 +303,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15424000" />
+    <option name="totallyTimeSpent" value="16087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
@@ -434,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
