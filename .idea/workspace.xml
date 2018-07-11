@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc3627d-aee6-44d9-a123-1d7525380a76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlists/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/functional_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlists/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlists/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/superlists/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/superlists/settings.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="332">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -42,8 +38,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superlists/lists/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -57,14 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -108,10 +101,10 @@
         <option value="$PROJECT_DIR$/functional_tests.py" />
         <option value="$PROJECT_DIR$/superlists/superlists/urls.py" />
         <option value="$PROJECT_DIR$/superlists/superlists/settings.py" />
-        <option value="$PROJECT_DIR$/superlists/functional_tests.py" />
-        <option value="$PROJECT_DIR$/superlists/lists/templates/home.html" />
         <option value="$PROJECT_DIR$/superlists/lists/tests.py" />
         <option value="$PROJECT_DIR$/superlists/lists/views.py" />
+        <option value="$PROJECT_DIR$/superlists/lists/templates/home.html" />
+        <option value="$PROJECT_DIR$/superlists/functional_tests.py" />
       </list>
     </option>
   </component>
@@ -293,7 +286,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531221095332</updated>
       <workItem from="1531221101192" duration="6706000" />
-      <workItem from="1531274001609" duration="6351000" />
+      <workItem from="1531274001609" duration="8718000" />
     </task>
     <servers />
   </component>
@@ -312,10 +305,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13057000" />
+    <option name="totallyTimeSpent" value="15424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,9 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,20 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
+    <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/lists/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -444,12 +425,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
+    <entry file="file://$PROJECT_DIR$/superlists/lists/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
