@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc3627d-aee6-44d9-a123-1d7525380a76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/superlists/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/lists/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlists/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/superlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/superlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/superlists/urls.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,10 +48,10 @@
       <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superlists/lists/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+            <state relative-caret-position="135">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,17 +81,17 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superlists/lists/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="150">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -101,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superlists/lists/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -133,13 +131,14 @@
         <option value="$PROJECT_DIR$/functional_tests.py" />
         <option value="$PROJECT_DIR$/superlists/superlists/settings.py" />
         <option value="$PROJECT_DIR$/superlists/functional_tests.py" />
-        <option value="$PROJECT_DIR$/superlists/lists/models.py" />
         <option value="$PROJECT_DIR$/superlists/functional_tests/tests.py" />
         <option value="$PROJECT_DIR$/superlists/superlists/urls.py" />
-        <option value="$PROJECT_DIR$/superlists/lists/tests.py" />
-        <option value="$PROJECT_DIR$/superlists/lists/views.py" />
         <option value="$PROJECT_DIR$/superlists/lists/templates/home.html" />
         <option value="$PROJECT_DIR$/superlists/lists/templates/list.html" />
+        <option value="$PROJECT_DIR$/superlists/lists/migrations/0003_list.py" />
+        <option value="$PROJECT_DIR$/superlists/lists/models.py" />
+        <option value="$PROJECT_DIR$/superlists/lists/tests.py" />
+        <option value="$PROJECT_DIR$/superlists/lists/views.py" />
       </list>
     </option>
   </component>
@@ -152,7 +151,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="682" />
     <option name="height" value="740" />
   </component>
@@ -188,6 +187,13 @@
               <item name="TestDrivenDev" type="462c0819:PsiDirectoryNode" />
               <item name="superlists" type="462c0819:PsiDirectoryNode" />
               <item name="lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDrivenDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDrivenDev" type="462c0819:PsiDirectoryNode" />
+              <item name="superlists" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestDrivenDev" type="b2602c69:ProjectViewProjectNode" />
@@ -354,10 +360,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33210000" />
+    <option name="totallyTimeSpent" value="36690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="682" height="740" extended-state="4" />
+    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -370,10 +376,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32755905" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" x="-40" y="328" width="1366" height="209" id="Terminal" order="7" sideWeight="0.49706745" visible="true" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" x="-40" y="328" width="1366" height="209" id="Terminal" order="7" sideWeight="0.49706745" visible="true" weight="0.32232705" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" x="514" y="51" width="338" height="636" id="Project" order="0" type="SLIDING" weight="0.51319647" />
+      <window_info content_ui="combo" x="514" y="51" width="338" height="636" id="Project" order="0" visible="true" weight="0.18448023" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -476,7 +482,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -537,7 +543,7 @@
         <state relative-caret-position="840">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -608,7 +614,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -648,13 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/lists/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/superlists/lists/migrations/0002_item_text.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -688,26 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/lists/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/superlists/lists/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -719,6 +698,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/lists/migrations/0003_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/lists/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/lists/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/lists/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
